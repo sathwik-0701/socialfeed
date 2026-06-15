@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://socialfeedbackend.onrender.com',
+  baseURL: 'https://socialfeedbackend.onrender.com/api',
 });
 
 // Attach the JWT token (if present) to every outgoing request
