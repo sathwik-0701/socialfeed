@@ -207,10 +207,10 @@ const api = axios.create({
 
 ## 🔮 Future Improvements
 
-- [ ] Profile pages with user's own posts
-- [ ] Edit/delete posts
-- [ ] Image upload via cloud storage (e.g. Cloudinary) instead of base64
-- [ ] Real-time updates using WebSockets/Socket.io
-- [ ] Pagination/infinite scroll for the feed
-- [ ] Follow/unfollow other users
+Profile pages with user's own posts
+Edit/delete posts
+Image upload via cloud storage (e.g. Cloudinary) instead of base64
+Real-time updates using WebSockets/Socket.io
+Pagination/infinite scroll for the feed
+Follow/unfollow other users
 
